@@ -8,4 +8,6 @@ import {
 	ColorScheme,
 } from '@mantine/core';
 
+
 ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+
